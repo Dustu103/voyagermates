@@ -1,0 +1,19 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .hover\:shadow-glow:hover {
+      box-shadow: 0 0 10px 5px rgba(0, 255, 255, 0.7);
+    }
+    .transform {
+      transition: transform 0.2s;
+    }
+    .scale-95 {
+      transform: scale(0.95);
+    }
+    .hover\:scale-100:hover {
+      transform: scale(1);
+    }
+  }

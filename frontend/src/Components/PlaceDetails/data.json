@@ -1,0 +1,70 @@
+{
+    "resources": [
+      {
+        "title": "Sunset Over the Mountains",
+        "link": "https://example.com/mountains",
+        "url": "https://example.com/images/sunset.jpg"
+      },
+      {
+        "title": "Forest Path",
+        "link": "https://example.com/forest",
+        "url": "https://example.com/images/forest-path.jpg"
+      },
+      {
+        "title": "City Skyline",
+        "link": "https://example.com/city",
+        "url": "https://example.com/images/city-skyline.jpg"
+      },
+      {
+        "title": "Ocean Waves",
+        "link": "https://example.com/ocean",
+        "url": "https://example.com/images/ocean-waves.jpg"
+      },
+      {
+        "title": "Desert Dunes",
+        "link": "https://example.com/desert",
+        "url": "https://example.com/images/desert-dunes.jpg"
+      },
+      {
+        "title": "Snowy Mountains",
+        "link": "https://example.com/snowy-mountains",
+        "url": "https://example.com/images/snowy-mountains.jpg"
+      },
+      {
+        "title": "Lake View",
+        "link": "https://example.com/lake-view",
+        "url": "https://example.com/images/lake-view.jpg"
+      },
+      {
+        "title": "Rainforest",
+        "link": "https://example.com/rainforest",
+        "url": "https://example.com/images/rainforest.jpg"
+      },
+      {
+        "title": "Tropical Beach",
+        "link": "https://example.com/tropical-beach",
+        "url": "https://example.com/images/tropical-beach.jpg"
+      },
+      {
+        "title": "Countryside",
+        "link": "https://example.com/countryside",
+        "url": "https://example.com/images/countryside.jpg"
+      },
+      {
+        "title": "Night Sky",
+        "link": "https://example.com/night-sky",
+        "url": "https://example.com/images/night-sky.jpg"
+      },
+      {
+        "title": "Autumn Leaves",
+        "link": "https://example.com/autumn-leaves",
+        "url": "https://example.com/images/autumn-leaves.jpg"
+      },
+      {
+        "title": "Waterfall",
+        "link": "https://example.com/waterfall",
+        "url": "https://example.com/images/waterfall.jpg"
+      }
+    ]
+  }
+  
